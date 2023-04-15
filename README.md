@@ -15,10 +15,3 @@ YEDA Lab bot is a multi-functioning custom Discord Bot in order to manage Yeda L
 Gives feedback to the user that the image has been sent for approval
 
 ![command3](https://github.com/yettyo/yedaLabBot/blob/master/screenshots/Screenshot%202023-03-17%20171254.png?raw=true)
-
-
-## To-do List
-- Adding approved/rejected reaction buttons to the images, then moving the image to their channels respectively (#approved-images || #rejected-images)
-- Adding message author info on the images for improved management of images.
-- ...
-
